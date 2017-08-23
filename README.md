@@ -1,32 +1,16 @@
-## Welcome to - Data Structures and Algorithms Lab - Resource Page
+## Data Structures and Algorithms Lab 
+### Resource Page
 
-You can use the [editor on GitHub](https://github.com/prakashbh/dsa-lab-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The lab resources can be downloaded from the list below: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Lab 01 - Introduction to the C Basics](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-01)
 
-### Markdown
+2. [Strengthening the C Basics](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-02)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. To Be Uploaded
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Note: You can also visit and clone or download the entire repository [HERE](https://github.com/prakashbh/dsa-lab-2017)
 
 
 ### Contact
