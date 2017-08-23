@@ -5,7 +5,7 @@ The lab resources can be downloaded from the list below:
 
 1. [Lab 01 - Introduction to the C Basics](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-01)
 
-2. [Strengthening the C Basics](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-02)
+2. [Lab 02 - Strengthening the C Basics](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-02)
 
 3. To Be Uploaded
 
