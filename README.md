@@ -7,7 +7,9 @@ The lab resources can be downloaded from the list below:
 
 2. [Lab 02 - Strengthening the C Basics](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-02)
 
-3. To Be Uploaded
+3. [Lab 03 - Structures and Problem Solving Skills](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-03)
+
+4. To Be Uploaded
 
 
 Note: You can also visit and clone or download the entire repository [HERE](https://github.com/prakashbh/dsa-lab-2017)
