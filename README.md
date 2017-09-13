@@ -9,7 +9,14 @@ The lab resources can be downloaded from the list below:
 
 3. [Lab 03 - Structures and Problem Solving Skills](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-03)
 
-4. To Be Uploaded
+4. [Lab 04 - Implementing Stacks and Queues](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-04)
+
+5. [Lab 05 - Application of Stacks and Queues](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-05)
+
+6. [Lab 06 - Linked Lists](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-06)
+
+7. To Be Uploaded
+
 
 
 Note: You can also visit and clone or download the entire repository [HERE](https://github.com/prakashbh/dsa-lab-2017)
