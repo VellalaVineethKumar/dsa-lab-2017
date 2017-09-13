@@ -7,7 +7,7 @@ Input Params:  The starting address of the node where collected ingredients will
 Return Type:   Updated starting address
 Description:   Collect the input one by one and add the node to the end of the list.
                You need to add a routine that will check if we have required quantity
-               of desired chocolates. Till then keep collecting the input.
+               of desired ingredients. Till then keep collecting the input.
 **/
 CF * gather_requirements(CF * process )
 {
