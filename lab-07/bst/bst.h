@@ -17,6 +17,5 @@ void inorder(TREE *);
 void preorder(TREE *);
 void postorder(TREE *);
 TREE * delete_from_bst(TREE *, int);
-int count_nodes(TREE *);
 
 #endif // BST_H_INCLUDED
