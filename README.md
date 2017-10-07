@@ -15,7 +15,7 @@ The lab resources can be downloaded from the list below:
 
 6. [Lab 06 - Linked Lists](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-06)
 
-7. [Lab 07 - Binary Search Tree] (https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-07)
+7. [Lab 07 - Binary Search Tree](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-07)
 
 8. To Be Uploaded
 
