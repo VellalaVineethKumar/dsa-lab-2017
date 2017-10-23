@@ -17,7 +17,19 @@ The lab resources can be downloaded from the list below:
 
 7. [Lab 07 - Binary Search Trees](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-07)
 
-8. To Be Uploaded
+8. [Lab 08 - Introduction to Algorithms](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-08)
+
+9. [Lab 09 - Sorting Techniques](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-09)
+
+10. [Lab 10 - Design Techniques](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-10)
+
+11. To Be Uploaded
+
+12. To be Uploaded
+
+13. [Lab 13 - Open Ended Experiments](https://github.com/prakashbh/dsa-lab-2017/tree/master/oee) 
+
+14. [Lab 00 - Missed Slots Makeup](https://github.com/prakashbh/dsa-lab-2017/tree/master/missed-slots-makeup) 
 
 
 
