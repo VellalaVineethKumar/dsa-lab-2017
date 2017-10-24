@@ -29,7 +29,7 @@ The lab resources can be downloaded from the list below:
 
 13. To be Uploaded
 
-14. [Lab 13 - Open Ended Experiments](https://github.com/prakashbh/dsa-lab-2017/tree/master/oee) 
+14. [Lab 14 - Open Ended Experiments](https://github.com/prakashbh/dsa-lab-2017/tree/master/oee) 
 
 15. [Lab 00 - Missed Slots Makeup](https://github.com/prakashbh/dsa-lab-2017/tree/master/missed-slots-makeup) 
 
