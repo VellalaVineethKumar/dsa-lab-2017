@@ -22,3 +22,10 @@ Semester:
 Lines of Code Written:
 ----------------------
 2267
+
+Project Evalution Marks:
+--------------------------
+The project was evaluated for-
+Code  -  15 marks
+Doc   -  05 marks
+Total -  20 marks
