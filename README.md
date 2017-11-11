@@ -23,9 +23,9 @@ The lab resources can be downloaded from the list below:
 
 10. [Lab 10 - Design Techniques](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-10)
 
-11. To Be Uploaded
+11. [Lab 11 - Searching and Sorting](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-11)
 
-12. To be Uploaded
+12. [Lab 12 - Graph Traversal Algorithms](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-12)
 
 13. To be Uploaded
 
