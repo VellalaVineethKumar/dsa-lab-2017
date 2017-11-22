@@ -27,7 +27,7 @@ The lab resources can be downloaded from the list below:
 
 12. [Lab 12 - Graph Traversal Algorithms](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-12)
 
-13. To be Uploaded
+13. [Lab 13 - Graph Algorithms](https://github.com/prakashbh/dsa-lab-2017/tree/master/lab-13)
 
 14. [Lab 14 - Open Ended Experiments](https://github.com/prakashbh/dsa-lab-2017/tree/master/oee) 
 
